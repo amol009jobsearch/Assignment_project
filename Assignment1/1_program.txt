@@ -5,11 +5,3 @@ He created Python to be an easy-to-read, high-level language that
 supports rapid development and emphasizes code readability and
 programmer productivity. The difference between c and python is that c is compiled time language where as 
 pyhon is interpreted language.
-
-2. 2.Explain the Python build process starting from .py file to execution.
-Mention the role of:
-• Python Interpreter
-• Bytecode
-• PVM
-
-Ans - 
