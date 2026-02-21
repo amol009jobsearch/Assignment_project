@@ -8,7 +8,7 @@ Input Elements : 13 5 45 7 4 56 10 34 2 5 8
 Output : 54 (13 + 5 + 7 +2 + 5)
 '''
 
-from Assignment17.Arithmetic import ChkPrime        
+from Custom_Module.Arithmetic import ChkPrime        
 
 def add_elements_in_list(No1):
     num_list=[]

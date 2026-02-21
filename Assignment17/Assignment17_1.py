@@ -5,7 +5,7 @@ parameters as number and perform the operation. Write on python program which ca
 functions from Arithmetic module by accepting the parameters from user.
 '''
 
-from Assignment17.Arithmetic import Add,Sub,Mult,Div
+from Custom_Module.Arithmetic import Add,Sub,Mult,Div
 
 no1 = int(input("Enter No1: "))
 no2 = int(input("Enter No2: "))

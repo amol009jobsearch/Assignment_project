@@ -16,3 +16,8 @@ def ChkPrime(No1):
         if No1%i == 0:
             is_prime=False
     return is_prime
+
+
+lambda_filter = lambda x : x >=70 and x <=90
+lambda_map = lambda x : x +10
+lambda_reduce = lambda x,y : x*y
