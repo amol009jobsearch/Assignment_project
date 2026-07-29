@@ -1,0 +1,7 @@
+1. Who developed Python and why was it created? Explain one major difference between
+Python and C in terms of program execution.
+Ans - Python was developed by Guido van Rossum.
+He created Python to be an easy-to-read, high-level language that 
+supports rapid development and emphasizes code readability and
+programmer productivity. The difference between c and python is that c is compiled time language where as 
+pyhon is interpreted language.
